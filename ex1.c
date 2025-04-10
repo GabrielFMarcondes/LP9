@@ -9,6 +9,7 @@ int main(void) {
 multi3(&x);
   printf("Resultado: %d\n", x);
 
+  printf("X depois: %d\n", x);
   return 0;
 }
 
